@@ -8,6 +8,7 @@ public class SummaryExerciceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SummaryExerciceApplication.class, args);
+		System.out.println("Test push");
 	}
 
 }
