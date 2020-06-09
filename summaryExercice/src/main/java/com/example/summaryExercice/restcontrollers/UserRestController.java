@@ -30,6 +30,6 @@ public class UserRestController {
 	@PostMapping(path = "/addusers")
 	public void saveUser() {
 		
-		userService.save(new Airline());
+		//userService.save(new Airline());
 	}
 }
